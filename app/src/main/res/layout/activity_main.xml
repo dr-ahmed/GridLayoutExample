@@ -1,0 +1,26 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:columnCount="3"
+    android:rowCount="3">
+
+    <Button android:text="X" />
+
+    <Button android:text="O" />
+
+    <Button android:text="X" />
+
+    <Button android:text="X" />
+
+    <Button android:text="O" />
+
+    <Button android:text="X" />
+
+    <Button android:text="X" />
+
+    <Button android:text="O" />
+
+    <Button android:text="O" />
+
+</GridLayout>
